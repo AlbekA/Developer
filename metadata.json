@@ -1,0 +1,6 @@
+{
+  "name": "ORDO DEVELOPMENT — Жилые комплексы в Оше",
+  "description": "Официальный сайт застройщика ORDO DEVELOPMENT в г. Ош: современные жилые комплексы комфорт- и бизнес-класса, Красная книга, сейсмостойкость 9 баллов, рассрочка 0%.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
